@@ -1,4 +1,4 @@
-# Image_Compression
+# Color_Compression
 Math Project01
 
 In this project, you have to implement the K-Means algorithm
